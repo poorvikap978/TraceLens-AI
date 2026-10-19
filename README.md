@@ -94,6 +94,14 @@ python -m pytest -v
 - Compare Isolation Forest with statistical and alternative machine-learning baselines.
 - Add reproducible experiments and deployment documentation.
 
+## 🚀 Live Demo
+
+**Try TraceLens AI:** [Launch the live application](https://tracelens-ai-lcqsjmy3ifxubsr3tbyqlx.streamlit.app/)
+
+**Source Code:** [GitHub Repository](https://github.com/poorvikap978/TraceLens-AI)
+
+TraceLens AI is a machine-learning application that detects anomalies in time-series CPU utilization data using Isolation Forest and generates rule-based incident explanations to help users investigate unusual behavior.  
+
 ## Disclaimer
 
 TraceLens AI is an educational monitoring prototype. Its anomaly flags and explanations should be treated as investigation aids, not definitive diagnoses of system failures.
