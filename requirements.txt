@@ -1,0 +1,9 @@
+
+pandas
+scikit-learn
+plotly
+streamlit
+pytest
+matplotlib
+
+
